@@ -10,6 +10,13 @@ public class HotcocoTest {
     public void Hotcoco_Test(){
         Hotcoco Hot = new Hotcoco(2);
     }
+
+    @Test
+    public void spesiesTest(){
+        assertEquals("Hotcoco",H.spesies);
+    }
+
+
     @Test
     public void getIdHotcocoTest(){
         assertEquals(2,H.id);

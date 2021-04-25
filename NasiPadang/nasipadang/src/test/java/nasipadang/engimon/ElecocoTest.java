@@ -9,6 +9,12 @@ public class ElecocoTest {
     public void Eleco_Test(){
         Elecoco El = new Elecoco(3);
     }
+
+    @Test
+    public void spesiesTest(){
+        assertEquals("Elecoco",E.spesies);
+    }
+
     @Test
     public void getIdElecoTest(){
         assertEquals(3,E.id);
