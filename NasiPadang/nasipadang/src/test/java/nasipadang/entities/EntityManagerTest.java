@@ -23,13 +23,6 @@ public class EntityManagerTest {
     }
 
     @Test
-    public void tick_Test(){
-
-        EntityManager E = new EntityManager(handler,P);
-        E.tick();
-    }
-
-    @Test
     public void Render_Test(){
 
         EntityManager E = new EntityManager(handler,P);

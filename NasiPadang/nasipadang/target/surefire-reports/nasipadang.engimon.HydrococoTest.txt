@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: nasipadang.engimon.HydrococoTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.113 s - in nasipadang.engimon.HydrococoTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s - in nasipadang.engimon.HydrococoTest
