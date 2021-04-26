@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/NasiPadang.iml" filepath="$PROJECT_DIR$/.idea/NasiPadang.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nasipadang/nasipadang.iml" filepath="$PROJECT_DIR$/nasipadang/nasipadang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NasiPadang.iml" filepath="$PROJECT_DIR$/NasiPadang.iml" />
     </modules>
   </component>
 </project>

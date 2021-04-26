@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="resources">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/nasipadang/src/main/resources" />
+      <root url="file://$PROJECT_DIR$/resources" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
