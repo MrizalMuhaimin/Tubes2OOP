@@ -56,7 +56,7 @@ public class Engimon extends Creature {
     }
 
     public void setParentname2(String parentname2) {
-        parentname2 = parentname2;
+        this.parentname2 = parentname2;
     }
 
     public String getParentspesies1() {
@@ -72,7 +72,7 @@ public class Engimon extends Creature {
     }
 
     public void setParentspesies2(String parentspesies2) {
-        parentspesies2 = parentspesies2;
+        this.parentspesies2 = parentspesies2;
     }
 
     public Integer getLevel() {

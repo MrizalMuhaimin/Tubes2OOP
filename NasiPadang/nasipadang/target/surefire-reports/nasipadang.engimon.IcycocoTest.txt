@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: nasipadang.engimon.IcycocoTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s - in nasipadang.engimon.IcycocoTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in nasipadang.engimon.IcycocoTest

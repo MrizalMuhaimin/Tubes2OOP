@@ -12,10 +12,6 @@ import java.awt.*;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author epatatuah
- */
 public abstract class Entity {
     
     protected Handler handler; 

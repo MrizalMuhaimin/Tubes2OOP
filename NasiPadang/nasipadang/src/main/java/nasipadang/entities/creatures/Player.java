@@ -18,10 +18,7 @@ import java.lang.Math;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author epatatuah
- */
+
 public class Player extends Creature{
 
     private Inventory inventory;
